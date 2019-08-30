@@ -18,7 +18,7 @@
 # PATH should only include /usr/* if it runs after the mountnfs.sh script
 PATH=/sbin:/usr/sbin:/bin:/usr/bin
 DESC="Hentai@Home service"
-NAME=hentaiathome
+NAME=hath
 DAEMON=/usr/bin/java
 USER=root
 DIR=/home/hath
